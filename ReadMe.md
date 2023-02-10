@@ -31,7 +31,11 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-
 ---
 [![](https://visitcount.itsvg.in/api?id=paudel54&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<p>&nbsp;
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@sansrit_paudel&theme=radical&compact=True" />
+</p>
+<br>
 
