@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on React.<br>🌱 I’m currently learning Full Stack Development.<br>👯 I’m looking to collaborate with other content creators.<br>🥅 Goals: Contribute more to Open Source projects.<br>⚡ Fun fact: I forget to shut my laptop off.
+🔭 I’m currently working on React & typeScript.<br>🌱 I’m currently learning Next Js, & corroborating Full Stack Development.<br>👯 I’m looking to collaborate with other content creators.<br>🥅 Goals: Onto Web 3.<br>⚡ Fun fact: I forget to shut my laptop off.
 
 
 ## 🌐 Socials:
